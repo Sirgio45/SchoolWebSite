@@ -1,0 +1,195 @@
+.BackGround /*image where it repeats in the background*/
+{
+   background-color:powderblue;
+   background-image:url("http://www.clker.com/cliparts/l/4/4/1/R/Y/paw-print-md.png");
+   background-repeat:repeat;
+   background-attachment: fixed;/*keeps the background from scrolling*/
+   
+}
+
+.programTitle
+{
+    text-align: center;
+    text-shadow: 5px 5px 5px red;/*the shadow and blured text */
+    font-family:serif ,sans-serif;
+    
+}
+
+
+
+.dive
+{
+    background-color: rgb(180,253,253);/*changes the color with RGB */
+    border:dotted red;
+}
+
+.paragraph{
+    background-color:#B4FDFD;/*changes the background color with hex*/
+    border:dotted red;
+}
+
+.breed{
+    background-color: powderblue;
+    border:dotted red;
+}
+
+
+.last{
+    background-color: powderblue;
+    border: dotted red;
+     
+    
+}
+
+.pageTitle{
+    text-align: center;
+    font-style: italic;
+    font-family: serif, sans-serif;
+    
+    
+    
+}
+
+#listTitle{
+    color: darkorange;
+    font-family: serif, fantasy;/*change the font*/
+    font-size:40px; /*Change the size absolute*/
+    
+    
+}
+
+.oneitem{
+    font-style: italic; /*change the font to italics*/
+    font-size: 20px; /*change the size relative */
+    font-kerning:none; /*Change the kerning of the font*/
+    font-family: serif,sans-serif;
+
+    
+}
+
+.twoitem{
+    font-weight: bolder;/*change the font to bold*/
+    font-family: serif,sans-serif;
+    font-size: 20px;
+  
+   
+}
+
+.oneP{
+    text-indent: 5em;/*change the 1st line indent*/
+   
+    font-size:40px;
+    font-family: serif,sans-serif;
+    
+    
+}
+
+.quiztitle{
+    text-decoration: underline;/*add an underline*/
+    font-family: serif,sans-serif;
+   
+    }
+    
+
+
+
+.pictureofdog{/*the image that has textwrapping around it*/
+    
+    
+    border: 1px dotted black;
+    text-align: center;
+    height: 500px;
+    width: 450px;
+    
+
+}
+
+
+
+.twop{
+    text-align: center;
+    font-size: 25px;
+    font-family: serif,sans-serif;
+}
+
+.lastline{
+    border-color: black;/*changes the color of the last horizontal line.*/
+    border-width: thick;/*changes the width of the last horizontal line.*/
+    
+}
+.bullets{
+
+list-style-image: url(http://www.go-play.biz/sitebuilder/images/Pawprint-38x38.jpg);
+/*changes the bullets to paw prints.*/
+    
+}
+
+.whatis{
+    text-align: center;
+}
+
+.listdiv{
+    background-color: powderblue;
+    border:dotted red;
+}
+
+
+
+.whendid{
+    text-align:center;
+}
+
+h1{
+    color: orange;
+}
+/*-----------------------------------------------------------------------------*/
+.ChangeLog{
+    color: blue;
+    text-align: center;
+    font-size:30px ;
+    font-family: sans-serif, serif ;
+    
+}
+
+#wholetable{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paragraphTable{
+    vertical-align: text-top;
+}
+
+.description{
+	        border:1px solid black;
+	       
+	        
+	    }
+	    
+	    
+	    
+.columnB{
+	        border:1px solid black;
+	       
+	    }
+	    
+	    
+	    
+ .column{
+	        background-color:yellow;
+	        border:1px solid black;
+	        text-align:center;
+}
+
+
+.columWidth{
+	     width:100px;
+	     background-color:yellow;
+	     border:1px solid black;
+	     text-align: center;
+	   }
+	   
+.bodyColor{
+	background-color: white;
+}
+
